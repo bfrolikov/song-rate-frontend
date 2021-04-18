@@ -1,0 +1,12 @@
+.song{
+    margin: 2px 0px 2px 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.song button{
+    margin-right: 8px !important;
+}
+.ratingButtons{
+    display: flex;
+}
